@@ -3,7 +3,6 @@ import './Header.css'
 import logo from './YL STUDIO LOGO.png';
 
 class Header extends Component {
-
     render() {
         return (
             <div>

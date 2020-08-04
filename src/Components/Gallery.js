@@ -14,8 +14,9 @@ class Gallery extends React.Component {
 
         return(
             <div>
-            <h1>video</h1>
             <YouTube videoId="9iHpKa2BNpU" opts={opts} onReady={this._onReady} />
+            <YouTube videoId="X7fuvwrAAPo" opts={opts} onReady={this._onReady} />
+            <YouTube videoId="eyTc7S190BY" opts={opts} onReady={this._onReady} />
             </div>
                 );
     }

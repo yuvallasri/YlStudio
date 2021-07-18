@@ -18,7 +18,7 @@ class Header extends Component {
                     <div className="divider"/>
                 <nav className="navbar navbar-inverse">
                     <div className="container-fluid nav">
-                        <Link to='/home'><a>Home</a></Link>
+                        <Link to='/home'><a>home</a></Link>
                         <Link to='/about'><a>About</a></Link>
                         <Link to='/gear'><a>Gear</a></Link>
                         <Link to='/gallery'><a>GALLERY</a></Link>
